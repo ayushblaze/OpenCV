@@ -1,2 +1,2 @@
 # OpenCV
-OpenCV interests me alot. So, let's learn it too!
+OpenCV interests me a lot. So, let's learn it too!
